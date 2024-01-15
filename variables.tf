@@ -1,7 +1,7 @@
 variable "machine_name" {
   type        = string
   description = "The machine name"
-  default     = "authentication2"
+  default     = "userwatchlists"
 }
 
 variable "project" {
